@@ -1,4 +1,4 @@
-Development progress of my ray tracer are available in the following blog posts:
+Development progress of my ray tracer is available in the following blog posts:
 
 https://erenceng795.wordpress.com/
 
